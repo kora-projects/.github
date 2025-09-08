@@ -1,4 +1,4 @@
-[![Maven Central](https://maven-badges.sml.io/sonatype-central/ru.tinkoff.kora/common/badge.svg)](https://maven-badges.sml.io/sonatype-central/ru.tinkoff.kora/common)
+[![Maven Central](https://img.shields.io/maven-central/v/ru.tinkoff.kora/common.svg)](https://central.sonatype.com/artifact/ru.tinkoff.kora/common)
 
 Kora - это Java фреймворк общего назначения для написания серверных Java или Kotlin приложений с упором на Производительность, Эффективность, Прозрачность.
 Kora стремится предоставить достаточно высокоуровневые декларативные инструменты и тонкие абстракции для разработчиков,
