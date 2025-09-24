@@ -1,6 +1,6 @@
 [![Maven Central](https://img.shields.io/maven-central/v/ru.tinkoff.kora/common.svg)](https://central.sonatype.com/artifact/ru.tinkoff.kora/common)
 
-Kora - это Java фреймворк общего назначения для написания серверных Java или Kotlin приложений с упором на Производительность, Эффективность, Прозрачность.
+Kora - это полнофункциональный Java фреймворк для написания серверных Java или Kotlin приложений с максимальной Производительность и упором на Эффективность, Простоту, Прозрачность.
 Kora стремится предоставить достаточно высокоуровневые декларативные инструменты и тонкие абстракции для разработчиков,
 которые на этапе компиляции преобразуются в производительный для железа и понятный для человека код. [Хотите знать больше?](https://kora-projects.github.io/kora-docs/ru/)
 
@@ -8,7 +8,7 @@ Kora стремится предоставить достаточно высок
 
 ---
 
-Kora is a Java framework for writing Java or Kotlin server-side applications with a focus on Performance, Efficiency, Transparency.
+Kora is a full-stack Java framework for writing Java or Kotlin server-side applications with Blazing Fast Performance and focus on Efficiency, Simplicity, Transparency.
 Kora aims to provide sufficiently high-level declarative tools and thin abstractions for developers,
 which are converted at compile time into hardware-performing and human-readable code. [Would you like to know more?](https://kora-projects.github.io/kora-docs/en/)
 
